@@ -1,2 +1,3 @@
 # dodorobo
-Repositório de versões sobre um robô seguidor de linha!
+
+Este repositório contém os códigos com e sem PID, separado por versões.
